@@ -197,12 +197,8 @@ window.addEventListener('resize', checkMobileScreen);
 
                     <!-- Header Message and Brief -->
                     <div class="w-full sm:w-3/5 p-6 lg:p-8 text-start z-10">
-                        <h1 class="text-5xl font-semibold text-gray-800 dark:text-gray-200">Reliable Delivery Solutions Across Sudan</h1>
-                        <p class="mt-4 leading-10 text-xl text-gray-600 dark:text-gray-400">Welcome to Sudan Bridge, the leading delivery service provider in
-                            Sudan. We understand the importance of timely deliveries and are dedicated to bringing convenience to your doorstep.
-                            Whether it's documents, packages, or everyday essentials, our extensive network ensures prompt and reliable delivery
-                            services to every corner of Sudan. With a focus on efficiency and customer satisfaction, we're redefining delivery
-                            standards and making it easier than ever to send and receive items across the country.</p>
+                        <h1 class="text-5xl font-semibold text-gray-800 dark:text-gray-200">Fashion Pluss Parcel Tracking</h1>
+                        <p class="mt-4 leading-10 text-xl text-gray-600 dark:text-gray-400">Welcome </p>
                     </div>
                 </div>
             </div>

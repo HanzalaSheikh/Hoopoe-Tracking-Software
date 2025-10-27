@@ -5,6 +5,7 @@ namespace Database\Seeders;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use App\Models\Facility;
+
 class FacilitySeeder extends Seeder
 {
     /**
@@ -14,36 +15,20 @@ class FacilitySeeder extends Seeder
     {
         $facilities = [
             [
-                'name' => 'Main store',
-                'location' => 'Portsudan',
+                'name' => 'Main Store',
+                'location' => 'Karachi',
             ],
             [
-                'name' => 'Distribution center',
-                'location' => 'Portsudan',
+                'name' => 'Distribution Center',
+                'location' => 'Karachi',
             ],
             [
-                'name' => 'Main store',
-                'location' => 'Atbara',
+                'name' => 'Warehouse A',
+                'location' => 'Karachi',
             ],
             [
-                'name' => 'Distribution center',
-                'location' => 'Atbara',
-            ],
-            [
-                'name' => 'Main store',
-                'location' => 'Khartoum',
-            ],
-            [
-                'name' => 'Distribution center',
-                'location' => 'Khartoum',
-            ],
-            [
-                'name' => 'Distribution center',
-                'location' => 'Bahri',
-            ],
-            [
-                'name' => 'Distribution center',
-                'location' => 'Omdurman',
+                'name' => 'Warehouse B',
+                'location' => 'Karachi',
             ],
         ];
 
